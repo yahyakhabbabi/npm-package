@@ -1,0 +1,27 @@
+{
+  "name": "exg",
+  "version": "1.0.0",
+  "description": "package for generate projet Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yahyakhabbabi/npm-package.git"
+  },
+  "keywords": [
+    "exg"
+  ],
+  "author": "yahya khabbabi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yahyakhabbabi/npm-package/issues"
+  },
+  "homepage": "https://github.com/yahyakhabbabi/npm-package#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "exg": "^1.0.0"
+  }
+}
